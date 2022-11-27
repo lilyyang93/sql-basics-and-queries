@@ -1,0 +1,3 @@
+--insert a new enrollment recording that Andre Rohan took Phys 218 and got an A 
+--INSERT INTO enrollments (id, student_id, class_id, grade) VALUES (17, 5, 4, 'A');
+-- Andre took PHYS 218 and got a 'C'
